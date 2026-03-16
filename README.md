@@ -1,0 +1,2 @@
+# Cardiac_segmentation_object_detection
+Advanced Cardiac Segmentation for Clinical Echocardiography using Computer Vision
